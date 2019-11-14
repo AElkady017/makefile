@@ -1,7 +1,6 @@
 #include "main.h"
 
-int main (void)
+void main (void)
 {
 	LCD_Write();
-printf("Hi");
 }
